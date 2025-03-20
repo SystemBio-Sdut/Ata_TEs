@@ -1,0 +1,22 @@
+SRR10054317	Day 5	HS53	Atelerix albiventris HH53	hair-type skin on dorsum
+SRR10054318	Day 5	HS52	Atelerix albiventris HH52	hair-type skin on dorsum
+SRR10054319	Day 5	HS51	Atelerix albiventris HH51	hair-type skin on dorsum
+SRR10054320	Day 1 >2h	HSY3	Atelerix albiventris HHY3	hair-type skin on dorsum
+SRR10054321	Day 1 >2h	HSY2	Atelerix albiventris HHY2	hair-type skin on dorsum
+SRR10054322	Day 1 >2h	HSY1	Atelerix albiventris HHY1	hair-type skin on dorsum
+SRR10054323	Day 1 <2h	HSN2	Atelerix albiventris HHN2	hair-type skin on dorsum
+SRR10054324	Day 43	HH43	Atelerix albiventris HS43	spine-type skin on abdomen
+SRR10054325	Day 14	HH14	Atelerix albiventris HS14	spine-type skin on abdomen
+SRR10054326	Day 1 <2h	HSN1	Atelerix albiventris HHN1	hair-type skin on dorsum
+SRR10054327	Day 5	HH53	Atelerix albiventris HS53	spine-type skin on abdomen
+SRR10054328	Day 5	HH52	Atelerix albiventris HS52	spine-type skin on abdomen
+SRR10054329	Day 5	HH51	Atelerix albiventris HS51	spine-type skin on abdomen
+SRR10054330	Day 1 >2h	HHY3	Atelerix albiventris HSY3	spine-type skin on abdomen
+SRR10054331	Day 1 >2h	HHY2	Atelerix albiventris HSY2	spine-type skin on abdomen
+SRR10054332	Day 1 >2h	HHY1	Atelerix albiventris HSY1	spine-type skin on abdomen
+SRR10054333	Day 1 <2h	HHN2	Atelerix albiventris HSN2	spine-type skin on abdomen
+SRR10054334	Day 1 <2h	HHN1	Atelerix albiventris HSN1	spine-type skin on abdomen
+SRR10054335	Day 43	HS43	Atelerix albiventris HH43	hair-type skin on dorsum
+SRR10054336	Day 14	HS14	Atelerix albiventris HH14	hair-type skin on dorsum
+SRR10054337	Embyro	Emb2	Atelerix albiventris Emb2	Embyro
+SRR10054338	Embyro	Emb1	Atelerix albiventris Emb1	Embyro
